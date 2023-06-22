@@ -1,0 +1,1 @@
+This is a stripped version of the [Ornithe template mod](https://github.com/OrnitheMC/ornithe-template-mod) modified to show an issue where Mixin fails to apply to non-game classes.
