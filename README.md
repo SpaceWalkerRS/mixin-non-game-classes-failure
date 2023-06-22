@@ -1,1 +1,1 @@
-This is a stripped version of the [Ornithe template mod](https://github.com/OrnitheMC/ornithe-template-mod) modified to show an issue where Mixin fails to apply to non-game classes.
+This is a stripped version of the [Quilt template mod](https://github.com/QuiltMC/quilt-template-mod) modified to show an issue where Mixin fails to apply to non-game classes.

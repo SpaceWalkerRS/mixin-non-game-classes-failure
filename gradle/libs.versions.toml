@@ -1,14 +1,13 @@
 [versions]
-# The latest versions are available at https://meta.ornithemc.net/v3/versions/feather/
-minecraft = "1.13.2"
+# The latest versions are available at https://lambdaurora.dev/tools/import_quilt.html
+minecraft = "1.20.1"
+quilt_mappings = "1.20.1+build.1"
 quilt_loader = "0.19.1"
-feather_mappings = "1.13.2+build.10"
 
 [libraries]
 minecraft = { module = "com.mojang:minecraft", version.ref = "minecraft" }
+quilt_mappings = { module = "org.quiltmc:quilt-mappings", version.ref = "quilt_mappings" }
 quilt_loader = { module = "org.quiltmc:quilt-loader", version.ref = "quilt_loader" }
-feather_mappings = { module = "net.ornithemc:feather", version.ref = "feather_mappings" }
 
 [plugins]
 quilt_loom = { id = "org.quiltmc.loom", version = "1.2.+" }
-ploceus = { id = "ploceus", version = "1.2.+" }
